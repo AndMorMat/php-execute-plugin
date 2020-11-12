@@ -17,4 +17,5 @@ Ao selecionar um determinado bloco de código e executar o plugin, todo conteúd
 	```
 ## Como usar?
 
-Selecione um bloco de codigo e precione o conjunto de teclas definidas no passo anterior, você verá o resultado da execução no final da seleção.
+Selecione um bloco de codigo e precione o conjunto de teclas definidas no passo anterior, você verá o resultado da execução no final da seleção.  
+![alt text](https://github.com/AndMorMat/php-execute-plugin/blob/main/77a81e33-0442-4f09-a99c-2dbd85f75957.jpeg?raw=true)

@@ -19,7 +19,6 @@ class ExecuteCommand(sublime_plugin.TextCommand):
 		if inicio != "<?php":
 			stri = "<?php "+stri
 
-
 		arquivo.write(stri)
 		arquivo.close();
 
